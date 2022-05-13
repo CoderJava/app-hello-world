@@ -2,3 +2,5 @@ github.com/CoderJava/go-hello-world v1.0.0 h1:wos4x/e1Ujx33aNk+wjE7sLQdLe1trSu0i
 github.com/CoderJava/go-hello-world v1.0.0/go.mod h1:EVdFIkMXEKfo3TUINCn9jAQwaDE08+pX+zSH7RTPxYE=
 github.com/CoderJava/go-hello-world v1.1.0 h1:P5qduBzWelQMtz1u5dy7ii6yHdUQjIjM/L8vHN4XV84=
 github.com/CoderJava/go-hello-world v1.1.0/go.mod h1:EVdFIkMXEKfo3TUINCn9jAQwaDE08+pX+zSH7RTPxYE=
+github.com/CoderJava/go-hello-world/v2 v2.0.0 h1:xTzn+CpO605vHgcMglMaUJZXVMYbOX2KmPTm5+17Fyc=
+github.com/CoderJava/go-hello-world/v2 v2.0.0/go.mod h1:vBN1PtdBgO/lwzu7FKf3NxEzDQtreQLPJvYR54N0PZI=

@@ -3,11 +3,11 @@ package main
 import (
 	"fmt"
 
-	go_hello_world "github.com/CoderJava/go-hello-world"
+	go_say_hello "github.com/CoderJava/go-hello-world/v2"
 )
 
 func main() {
-	fmt.Println(go_hello_world.SayHello())
+	fmt.Println(go_say_hello.SayHello("Yudi"))	
 }
 
 // go get -u . -> update semua dependency-nya
